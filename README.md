@@ -8,7 +8,7 @@ npx web3sdkio create --contract --template hardhat-typescript-starter
 
 You can start editing the page by modifying `contracts/MyContract.sol`.
 
-To add functionality to your contracts, you can use the `@web3sdkio/contracts` package which provides base contracts and extensions to inherit. The package is already installed with this project. Head to our [Contracts SDK Docs](https://portal.web3sdk.io/web3sdkio-deploy/contract-extensions) to learn more.
+To add functionality to your contracts, you can use the `@web3sdkio/contracts` package which provides base contracts and extensions to inherit. The package is already installed with this project. Head to our [Contracts SDK Docs](https://docs.web3sdk.io/web3sdkio-deploy/contract-extensions) to learn more.
 
 ## Deploying Contracts
 
@@ -32,4 +32,4 @@ yarn release
 
 ## Join our Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/web3sdkio](https://discord.gg/web3sdkio).
+For any questions, suggestions, join our discord at [https://discord.gg/n33UhsfUKB](https://discord.gg/n33UhsfUKB).

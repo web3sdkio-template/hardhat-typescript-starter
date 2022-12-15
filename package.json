@@ -5,7 +5,7 @@
     "release": "npx web3sdkio@latest release"
   },
   "dependencies": {
-    "@web3sdkio/contracts": "^3"
+    "@web3sdkio/contracts": "^1.0.6"
   },
   "devDependencies": {
     "@ethersproject/abi": "^5.4.7",
